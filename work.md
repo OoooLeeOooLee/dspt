@@ -1,5 +1,7 @@
-###配置用户名：git config global user.name  ""
-###配置邮箱:git config global user.email ""
+###配置用户名：
+    git config global user.name  ""
+###配置邮箱:
+    git config global user.email ""
 ###配置编码：
     git config --global gui.encoding utf-8
     git config --global core,quoteopath off
