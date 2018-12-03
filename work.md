@@ -1,12 +1,12 @@
-###配置用户名：
+###  配置用户名：
     git config global user.name  ""
-###配置邮箱:
+###  配置邮箱:
     git config global user.email ""
-###配置编码：
+###  配置编码：
     git config --global gui.encoding utf-8
     git config --global core,quoteopath off
     git config --global core.ignorecase.false
-###git ssh key pair配置:
+###  git ssh key pair配置:
     ssh-keygen -t rsa -C
     回车
     在生成的目录下找到.ssh id_rsa id_rsa.pub(公有)
@@ -24,7 +24,7 @@
     git checkou 切换分支
     git pull 从远程仓库拉取
     分支合并: git merge branchname
-###github上创建项目：    
+###  github上创建项目：    
     git remote add origin + 远程仓库地址
     git remote rm origin 解除仓库关联 
     git push -u origin master 提交到远程仓库 
@@ -51,12 +51,12 @@
     获取个人信息
     退出登陆    
 ### 商品
-####后台
+#### 后台
     商品显示
     商品修改
     商品删除
     商品上下架状态
-####前台
+#### 前台
     搜索商品
     商品详情
 ### 类别
@@ -73,7 +73,7 @@
     用户信息其一
     订单创建时对地址的  添加/修改/删除
 ### 订单
-####前台
+#### 前台
     创建订单
     取消订单
     显示所有订单
