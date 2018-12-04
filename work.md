@@ -90,6 +90,23 @@
 ### 部署
     阿里云部署  
     
-    https://www.cnblogs.com/Gxiaopan/p/6714539.html
+  
     
- 
+###  项目架构
+    视图层  jsp
+    控制层 Controller
+    业务逻辑层  service ---接口 实现类 功能扩展
+    Dao 层 
+ #### 笔记   
+    
+    decimal(20，1) 20位数，整数位19 小数位1
+    较大的数值用Bigint  对应Java long 类型  
+    
+    配置db.properties 文件 
+    导入 mysql jar包
+    generatorConfig,xml 配置 加载驱动的绝对路径
+    通过${} 取db文件的 username password url driver
+    开启注解需要扫码neuedu包下的所有类
+    c3p0带有连接池的数据源 
+    开启注解扫描controller
+    json.MappingJackson2HttpMessageConverter 控制json数据返回到前端页面
