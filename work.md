@@ -116,3 +116,19 @@
     c3p0带有连接池的数据源 
     json.MappingJackson2HttpMessageConverter 控制json数据返回到前端页面
     servletDispatcher 拦截 / 
+    
+    
+    
+    
+    
+    pom 配置
+    AOP  springaop spring-aspects
+    数据库连接池 c3p0 后期更换
+    mybatis spring-jdbc mysql驱动包
+    mybatis-spring
+    上传文件需要 commons-fileupload commons-io
+    事务  spring-tx
+    jstl标签  jstl 
+    SpringMVC 核心sring-webmvc spring-web
+    
+    spring.version标签 统一版本
