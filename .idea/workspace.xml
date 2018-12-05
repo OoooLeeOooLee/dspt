@@ -46,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/work.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="296">
-                <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+              <first_editor relative-caret-position="240">
+                <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -355,16 +355,15 @@
       <workItem from="1543918562437" duration="2079000" />
       <workItem from="1543920763022" duration="1724000" />
       <workItem from="1543922571893" duration="2865000" />
-      <workItem from="1543971171393" duration="1129000" />
+      <workItem from="1543971171393" duration="1633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16775000" />
+    <option name="totallyTimeSpent" value="17279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="46" width="920" height="520" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.32905984" />
@@ -381,13 +380,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32905984" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.57977206" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" visible="true" weight="0.0" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.47331786" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" visible="true" weight="0.3019943" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27345845" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -602,8 +601,8 @@
     <entry file="file://$PROJECT_DIR$/work.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="296">
-            <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+          <first_editor relative-caret-position="240">
+            <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
