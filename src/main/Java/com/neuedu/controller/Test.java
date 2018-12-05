@@ -5,6 +5,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Collection;
+
 @RestController
 @RequestMapping(value = "/shopping/")
 public class Test {
@@ -14,5 +16,6 @@ public class Test {
         user.setUname("哈哈哈哈哈哈");
         user.setUpwd("123456");
         return user;
+
     }
 }
