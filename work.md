@@ -109,8 +109,10 @@
     generatorConfig,xml 配置 加载驱动的绝对路径
     通过${} 取db文件的 username password url driver
     配置spring springmvc 的xml文件
+    MapperScannerConfigurer Dao接口的代理实现
+    视图解析器 prefix 解析路径  suffix 解析扩展名 
+
     开启注解需要扫码neuedu包下的所有类
     c3p0带有连接池的数据源 
     json.MappingJackson2HttpMessageConverter 控制json数据返回到前端页面
-    
     servletDispatcher 拦截 / 
